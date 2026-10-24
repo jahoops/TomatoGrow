@@ -1,0 +1,8 @@
+[
+  {
+    "id": "potato",
+    "seedItemId": "potato_seed",
+    "harvestItemId": "potato",
+    "growthDays": 5
+  }
+]

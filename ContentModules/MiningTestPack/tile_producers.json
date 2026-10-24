@@ -1,0 +1,14 @@
+[
+  {
+    "id": "copper_ore",
+    "starterItemId": "copper_marker",
+    "outputItemId": "copper_ore",
+    "productionDays": 4
+  },
+  {
+    "id": "iron_ore",
+    "starterItemId": "iron_marker",
+    "outputItemId": "iron_ore",
+    "productionDays": 5
+  }
+]

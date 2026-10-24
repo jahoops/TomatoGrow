@@ -1,0 +1,51 @@
+[
+  {
+    "id": "grape_seed",
+    "name": "Grape Seeds",
+    "type": "seed",
+    "buyPrice": 15,
+    "sellPrice": 1
+  },
+  {
+    "id": "grape",
+    "name": "Grapes",
+    "type": "crop",
+    "buyPrice": 0,
+    "sellPrice": 45
+  },
+  {
+    "id": "hops_seed",
+    "name": "Hops Seeds",
+    "type": "seed",
+    "buyPrice": 14,
+    "sellPrice": 1
+  },
+  {
+    "id": "hops",
+    "name": "Hops",
+    "type": "crop",
+    "buyPrice": 0,
+    "sellPrice": 40
+  },
+  {
+    "id": "wine",
+    "name": "Wine",
+    "type": "processed_good",
+    "buyPrice": 0,
+    "sellPrice": 160
+  },
+  {
+    "id": "beer",
+    "name": "Beer",
+    "type": "processed_good",
+    "buyPrice": 0,
+    "sellPrice": 140
+  },
+  {
+    "id": "aged_wine",
+    "name": "Aged Wine",
+    "type": "processed_good",
+    "buyPrice": 0,
+    "sellPrice": 260
+  }
+]

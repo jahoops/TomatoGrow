@@ -1,0 +1,16 @@
+[
+  {
+    "id": "turnip_seed",
+    "name": "Turnip Seeds",
+    "type": "seed",
+    "buyPrice": 10,
+    "sellPrice": 1
+  },
+  {
+    "id": "turnip",
+    "name": "Turnip",
+    "type": "crop",
+    "buyPrice": 0,
+    "sellPrice": 30
+  }
+]

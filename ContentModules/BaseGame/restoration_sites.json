@@ -1,0 +1,11 @@
+[
+  {
+    "id": "old_junk_pile",
+    "name": "Old Junk Pile",
+    "description": "A pile of rusted scrap blocking usable farm space.",
+    "cost": 500,
+    "rewardType": "unlock_expansion_level",
+    "rewardValue": 2,
+    "rewardDescription": "Unlocks 5x3 farm expansion"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "potato_seed",
+    "name": "Potato Seeds",
+    "type": "seed",
+    "buyPrice": 12,
+    "sellPrice": 1
+  },
+  {
+    "id": "potato",
+    "name": "Potato",
+    "type": "crop",
+    "buyPrice": 0,
+    "sellPrice": 35
+  }
+]

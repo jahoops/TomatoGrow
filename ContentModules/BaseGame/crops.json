@@ -1,0 +1,8 @@
+[
+  {
+    "id": "turnip",
+    "seedItemId": "turnip_seed",
+    "harvestItemId": "turnip",
+    "growthDays": 4
+  }
+]

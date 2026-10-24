@@ -1,0 +1,51 @@
+[
+  {
+    "id": "copper_marker",
+    "name": "Copper Claim Marker",
+    "type": "marker",
+    "buyPrice": 10,
+    "sellPrice": 1
+  },
+  {
+    "id": "copper_ore",
+    "name": "Copper Ore",
+    "type": "crop",
+    "buyPrice": 0,
+    "sellPrice": 30
+  },
+  {
+    "id": "iron_marker",
+    "name": "Iron Claim Marker",
+    "type": "marker",
+    "buyPrice": 12,
+    "sellPrice": 1
+  },
+  {
+    "id": "iron_ore",
+    "name": "Iron Ore",
+    "type": "crop",
+    "buyPrice": 0,
+    "sellPrice": 40
+  },
+  {
+    "id": "copper_ingot",
+    "name": "Copper Ingot",
+    "type": "processed_good",
+    "buyPrice": 0,
+    "sellPrice": 120
+  },
+  {
+    "id": "iron_ingot",
+    "name": "Iron Ingot",
+    "type": "processed_good",
+    "buyPrice": 0,
+    "sellPrice": 150
+  },
+  {
+    "id": "copper_parts",
+    "name": "Copper Parts",
+    "type": "processed_good",
+    "buyPrice": 0,
+    "sellPrice": 220
+  }
+]

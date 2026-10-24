@@ -1,0 +1,16 @@
+[
+  {
+    "id": "buy_copper_ore",
+    "itemId": "copper_ore",
+    "quantity": 3,
+    "price": 100,
+    "category": "raw_input"
+  },
+  {
+    "id": "buy_iron_ore",
+    "itemId": "iron_ore",
+    "quantity": 3,
+    "price": 130,
+    "category": "raw_input"
+  }
+]

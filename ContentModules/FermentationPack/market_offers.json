@@ -1,0 +1,23 @@
+[
+  {
+    "id": "buy_grapes",
+    "itemId": "grape",
+    "quantity": 3,
+    "price": 160,
+    "category": "raw_input"
+  },
+  {
+    "id": "buy_hops",
+    "itemId": "hops",
+    "quantity": 3,
+    "price": 145,
+    "category": "raw_input"
+  },
+  {
+    "id": "buy_wine",
+    "itemId": "wine",
+    "quantity": 1,
+    "price": 190,
+    "category": "intermediate_input"
+  }
+]

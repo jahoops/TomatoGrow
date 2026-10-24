@@ -1,0 +1,14 @@
+[
+  {
+    "id": "grape",
+    "seedItemId": "grape_seed",
+    "harvestItemId": "grape",
+    "growthDays": 6
+  },
+  {
+    "id": "hops",
+    "seedItemId": "hops_seed",
+    "harvestItemId": "hops",
+    "growthDays": 5
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "grape_to_wine",
+    "machineId": "fermenter",
+    "inputItemId": "grape",
+    "inputQuantity": 3,
+    "outputItemId": "wine",
+    "outputQuantity": 1,
+    "processingDays": 2
+  },
+  {
+    "id": "hops_to_beer",
+    "machineId": "fermenter",
+    "inputItemId": "hops",
+    "inputQuantity": 3,
+    "outputItemId": "beer",
+    "outputQuantity": 1,
+    "processingDays": 2
+  },
+  {
+    "id": "wine_to_aged_wine",
+    "machineId": "aging_barrel",
+    "inputItemId": "wine",
+    "inputQuantity": 1,
+    "outputItemId": "aged_wine",
+    "outputQuantity": 1,
+    "processingDays": 5
+  }
+]

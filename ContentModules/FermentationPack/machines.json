@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fermenter",
+    "name": "Fermenter",
+    "type": "processor_machine"
+  },
+  {
+    "id": "aging_barrel",
+    "name": "Aging Barrel",
+    "type": "processor_machine"
+  }
+]

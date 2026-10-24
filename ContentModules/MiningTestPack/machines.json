@@ -1,0 +1,12 @@
+[
+  {
+    "id": "smelter",
+    "name": "Smelter",
+    "type": "processor_machine"
+  },
+  {
+    "id": "forge",
+    "name": "Forge",
+    "type": "processor_machine"
+  }
+]

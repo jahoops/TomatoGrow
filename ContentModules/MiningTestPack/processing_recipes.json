@@ -1,0 +1,29 @@
+[
+  {
+    "id": "copper_ore_to_ingot",
+    "machineId": "smelter",
+    "inputItemId": "copper_ore",
+    "inputQuantity": 3,
+    "outputItemId": "copper_ingot",
+    "outputQuantity": 1,
+    "processingDays": 2
+  },
+  {
+    "id": "iron_ore_to_ingot",
+    "machineId": "smelter",
+    "inputItemId": "iron_ore",
+    "inputQuantity": 3,
+    "outputItemId": "iron_ingot",
+    "outputQuantity": 1,
+    "processingDays": 2
+  },
+  {
+    "id": "copper_ingot_to_parts",
+    "machineId": "forge",
+    "inputItemId": "copper_ingot",
+    "inputQuantity": 1,
+    "outputItemId": "copper_parts",
+    "outputQuantity": 1,
+    "processingDays": 4
+  }
+]
